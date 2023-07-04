@@ -1,0 +1,370 @@
+
+
+TO ALL INTERESTED PARTIES 
+THIS REQUEST FOR INFORMATION (RFI) IS RELEASED PURSUANT TO FEDERAL 
+ACQUISITION REGULATION (FAR) PART 10, MARKET RESEARCH.   
+This RFI is issued solely for information and planning purposes only and shall not be construed as 
+either a solicitation or the obligation on the part of Government. This is NOT a solicitation for 
+proposals, proposal abstracts or quotations. This notice is for market research purposes only.   
+No reimbursement will be made for any costs associated with providing information in response to 
+this announcement or any follow-up information requests. 
+Respondents will NOT be notified of the results of the analysis. All data received in response to this 
+Sources Sought synopsis that is marked or designated as corporate or proprietary information will 
+be fully protected from release outside the Government. The Government shall not be liable for or 
+suffer any consequential damages for any proprietary information not properly identified.  
+Proprietary information will be safeguarded in accordance with all applicable Government 
+regulations.  All documentation shall become the property of the Government and will not be 
+returned. 
+BACKGROUND:   
+As the Internal Revenue Services (IRS) continues to make significant progress towards the 
+successful implementation and compliance of its Federal Records program as it relates to 
+electronic records management, digitization, and digitalization transformation of the agency 
+Service-wide. IRS Records and Information Management (RIM) is currently postured to 
+continue enhancing IRS’ records management approach pursuant to federal laws, National 
+Archives and Records Administration (NARA) guidance and Bulletins for federal agencies to 
+include the Office of Management and Budget (OMB)/NARA M-19-21- Transition to 
+Electronic Records Directive, IRS internal revenue manual (IRM) policies for Records 
+Management, Information Technology, Cyber Security, Privacy and Disclosure, and other 
+related external regulations (e.g., NIST 800-53, SI-12).  The M-19-21 Directive states that 
+“Federal agencies should electronically manage all temporary and permanent email by 
+December 31, 2016, and all permanent electronic records by December 31, 2019,” along with 
+other related deadlines.  NARA recently announced that the M-19-21 deadlines will be 
+modified with new extended dates (pending release).  The vendor will be required to 
+demonstrate ability to be flexible and work in an agile environment. 
+IRS formulated an enterprise Records Management strategic approach that will enable us to 
+deliver a robust and efficient program in this discipline that complies with existing statutes and 
+directives that positions the agency for future demands. One important aspect of the enterprise 
+plan is an effort to align IRS's technology to support an environment of enterprise content 
+management and digitization efforts. Currently, infrastructure updates include our document 
+collaboration platform. 
+
+
+The relationship between records management, knowledge management, transparency, and 
+accountability cannot be overlooked. Records identification, retention, and search ability will 
+enable the IRS to identify and compile risk, risk considerations and decisions made, and 
+development and implement risk mitigation strategies. 
+IRS’s primary goal is to bring the IRS into full compliance with agency goals and policies, 
+external requirements, and enhanced electronic records management processes into new state of 
+the art solutions that are supported by best industry practices. 
+SUBMISSION INFORMATION:  
+The IRS is requesting submission of Technical Capabilities  
+.
+I.  Technical Capabilities -Each response should include the following information: 
+a)  Company Name. 
+b)  Company Address. 
+c)  Company Point of Contact, Phone and Email address. 
+d)  Identification of any current Government Wide Acquisition Contract (GWAC) vehicles (e.g. 
+General Services Administration [GSA], Solutions for Enterprise-Wide Procurement 
+[SEWP], NIH Information Technology Acquisition and Assessment Center [NITAAC] 
+schedule numbers and SIN category(ies)) they may possess or are aware of that would 
+support this possible requirement. including the Data Universal Numbering System (DUNS) 
+or Unique Entity Identifier (UEI) and North American Industry Classification System 
+(NAICS) Code. 
+e)  Type of Company (i.e., small business, 8(a), woman owned, veteran owned, etc.) 
+f)  Contract holder’s capability statement that addresses organizational and staffexperience and 
+expertise. 
+g)  List at least three organizations (federal or commercial) to which similar types, size, and 
+complexity of services have been previously provided for federal agency-level 
+programmatic records management and electronic records management services within 
+the last three years – to include contract number, description of the requirement, dollar 
+value, contract type, name, and telephone number of the customer; include outcome of 
+contract services rendered for each reference. 
+h)  Provide overall service estimated cost.  The period of performance is estimated to be a 
+“12-month base year, plus two 12-month option years”. Include suggested level of effort 
+and contract type.  
+i)  Provide the Section 508 level of compliance and Voluntary Product Accessibility 
+Template (VPAT) for the suggested services.  
+j)  List suggested best commercial practices, software and/or licenses recommended to 
+successfully and efficiently complete listed services in item “l.”, number six (6) or any 
+other task in section “l.”.  Provide related cost estimate(s).  
+k)  Vendors should demonstrate knowledge, skill, ability, and supporting certifications in 
+records management, Project Management Professional (PMP) and experience 
+
+
+designing IT records management solutions.  Staff should be seasoned senior officials 
+that can lead, advise, and develop federal agency level RM projects and solutions at all 
+levels including core electronic RM and electronic recordkeeping system management.  
+Vendor should provide proof of RM Certification, PMP Certifications, and other related 
+certifications and education with the submission of this RFI. 
+l)  Provide solutions and approaches that exist in the marketplace, and information 
+regarding innovative ideas or concepts regarding the services in question in your 
+responses to the following IRS RFI tasks: 
+1.  Vendor should demonstrate ability to immediately onboard and transition seamlessly in 
+supporting a large federal agency Records Management Program, its leadership, 
+internal, and external customers.  Onboarding and transition off-boarding should include 
+the following: 
+i.  Onboarding plan that includes cooperating and working in good 
+faith, understanding performance requirements to commence full 
+performance of services expeditiously after the start date; this 
+includes setting up reasonable and efficient milestone deadlines.  
+ii.  Records Management Program plan that describes the approach, 
+best practices for RFI task, new ideas and recommended services 
+that are innovative and in line with the NARA regulations and 
+guidelines.   
+iii.  Description of ad hoc support to senior leadership, management, 
+and senior analyst with daily needs in a professional manner. 
+iv.  Providing daily federal agency records management support 
+agency customers and stakeholders. 
+v.  Provision of appropriate staffing planning to support listed task. 
+vi.  Transition clause for “end-of-contract” services to the IRS and 
+actions the vendor recommends ensuring the IRS is equipped to 
+maintain, manage, and/or continue new business methods to 
+effectively maintain agency-wide compliance and success. 
+2.  Demonstrate skill in providing executive level reporting to leadership for the following 
+report types: 
+i.  Weekly Reports – Progress status report to include project’s progress, task 
+tracking, risk(s), upcoming activities, action items, resources, and 
+accomplishments. 
+ii.  Monthly Reports – Progress status report to include a description of activities 
+performed per task for the relevant reporting period including a full tally of 
+monthly outcomes, accomplishments, risks, activities, action items, and resources. 
+iii.  Task Non-Completion Reports – Ability to provide milestone report of late 
+deliverables including reason and action plan to be completed. 
+
+
+iv.  Identifying and tracking all agency senior officials (e.g., capstone) in a centrally 
+managed Microsoft SharePoint repository.  Methods should include: 
+• Microsoft SharePoint – To allow collaborative editing of and 
+access to the capstone list and case of updating employee 
+promotion and separation from IRS.  
+• Reconciliation of daily/weekly/monthly capstone report to 
+ensure accuracy and appropriate identification/tracking of 
+capstone officials.  
+• Updated NARA NA Form 1005 - “Verification for 
+Implementing GRS 6.1: Email Managed Under a Capstone 
+Approval” submitted each January to ensure agency reporting 
+compliance. 
+v.  Dashboard Report – Ability to provide an interactive program management 
+dashboard that allows IRS to track its activities, risks, and compliance checks that 
+are relevant to all IRS programs. 
+3.  Ability to develop and provide IRS general records management and electronic records 
+management (eRM) training plans, briefings, that include the following: 
+i.  Developing and conducting training to educating IRS employees 
+regarding their roles and responsibilities concerning; Capstone (IRS 
+Senior agency staff), permanent electronic records, new records 
+management applications/e-storage,  and unstructured data.  
+ii.  Providing eRM training to increase transparency, improved access, 
+and accountability. These services    ensure IRS maintains 
+compliance with applicable NARA and other laws and regulations, 
+and ensure the IRS has an effective records management training 
+program for employee knowledge base learning. 
+iii.  Conducting regular records management briefings to IRS business 
+units (BUs) on the electronic records implementation process, IRS 
+records management policies (e.g., IRMs), e-system recordkeeping 
+policies, NARA regulations (e.g., CFR, Federal Records Act, 
+system eRM Universal Requirements). 
+iv.  Providing initial briefings to the IRS BU information resource 
+coordinators (IRCs) and IRS records specialist (RS).  Briefings 
+should provide an overview of “How To” for the following: 
+•  Create and maintain compliant BU records programs, education 
+outreach for current and new IRS records management policies, 
+and standard operating procedures (e.g., Microsoft records 
+management impacts and applications, SharePoint and/or e-
+system’s site collection setup processes and impacts, 
+  This includes developing presentation materials, education 
+
+tools, pamphlets, FAQs, and other related supporting 
+guidance documents for IRS employees.  
+•  Complete digitization and eRM system compliance 
+assessment and other system data collection (e.g., 
+Digitization Validation [DV] scanning projects, electronic 
+Records Management System Compliance Assessment 
+Form, System Development Life Cycle [OneSDLC], 
+Federal Information Security Management Act [FISMA], 
+and Privacy and Civil Liberties and Impacts Assessment 
+[PCLIA] reviews and assessments) forms, 
+•  Prepare and conduct scanning paper into digital e-records 
+projects and guidance,  
+•  Records management and related stakeholder points of contact,  
+•  Establishing collaborative on-going working relationships with 
+each BU, 
+  This can include records management education for daily life-cycle management of records, agency records schedule 
+overview of the soon-to-be newly Big Bucket (see item 
+five [5] below for more information on the Big Bucket 
+Project) records schedule and its new features/usage 
+guidance, and lastly a refresh reminder of guidance for 
+BUs to keep their records inventories/file plans up to date  
+(with guidance and partnership from the IRS records 
+program and officer).   
+v.  Demonstrate the ability and skills to conduct “Train the Trainer” sessions with 
+IRCs and RS to enhance and/or refresh RM and eRM skillset, knowledge, and new 
+business implementation efforts via working sessions and trainings.   
+4.  Demonstrate ability to provide senior level electronic records management support and 
+expertise by performing the following task: 
+i.  Conducting content assessments for all platforms (e.g., M365, 
+Documentum, Share drives, etc..) To evaluate current information 
+management policies, and system controls for electronic records 
+and identify the following:  
+•  eRecords content, its use, and business owners,  
+•  Business Unit’s functions, executives, business process, 
+and IRS Records Control Schedule (RCS) and IRS 
+General Records Schedule (GRS) schedules, and  
+
+
+•  Permanent and temporary records. 
+The purpose of the content assessments is to gather and 
+perform a RIM assessment of the information residing on 
+Business Unit/ Program Manager’s electronic platforms. 
+NOTE that assessment can be planned in conjunction with the 
+assessment planning for the new IRS Big Bucket records 
+schedule project reference above that also requires outreach, 
+data collection assessments, outcome measures and 
+processes/next steps for each project planned.   
+ii.  Provide daily support to IRS RIM senior analyst for the processing 
+of IRS BU new SharePoint sites and site closure requests.   
+•  This process includes reviewing and providing supporting 
+records retention and records management policy.   
+•  Communicating and collaborating with IRS Information 
+Technology on issues and reporting total monthly 
+customer request completed. 
+•  Directing general SharePoint user requests to appropriate 
+SharePoint Site Collection Administrators (SCAs). 
+iii.  In collaboration with the SCA, the vendor will be required to 
+create custom SharePoint forms and workflows for various RIM 
+business processes (e.g., system electronic records management 
+compliance assessment form, digitization validation form, records 
+scheduling, Form 11671’s - Certificate of Records Disposal, 
+etc…); train RIM POCs on how to use and manage the 
+form/workflows after creation; create and generate RIM metrics 
+reports; and automate records modernization dashboarding. 
+iv.  Enhance Site Taxonomy 
+•  In accordance with industry best practice and  NARA 
+guidance, the vendor will enhance previously established 
+site taxonomy for unstructured data and temporary records. 
+v.  Permanent Record Tracker Project - Demonstrate ability to 
+develop and support the maintenance and processing of 
+permanent electronic records. Detailed location of all permanent 
+electronic records each BU creates and stores in SharePoint, 
+Documentum, and/or AvePoint will help streamline the 
+configuration process for application of IRS records retention 
+policies, including the following: 
+
+
+•  Tracking permanent records status  
+  Developing process to identify and track IRS permanent records transfer eligibility (using the IRS Master File Plans), 
+  Internal reviews (e.g., Documentum reporting and/or records in unstructured controls), 
+  Reviewing NARA Archives and Records Centers Information System (ARCIS) reports for records stored at Federal Records Centers 
+(FRCs) and any other off/on-site paper records storage facility, and 
+•  Preparing permanent records for transfer to NARA’s public storage 
+facilities for historical preservation, to include: 
+  Transfer format preparation,   BU outreach, and   NARA transfer process and confirmation tracking. 5.  As the IRS records schedules impact all functions of federal records management, this task 
+item is high priority for agency enhancement and compliance and is expected to be timely 
+completed.  The vendor should provide best industry methods to complete this task and 
+methodology that will be used to update the current IRS records schedules (IRS RCS and 
+IRS GRS) into new streamlined Big Bucket method schedules. For this purpose, the vendor 
+should engage experienced federal records schedule writers who understand NARA 
+regulations, records schedule development concepts, and guidelines including the 
+understanding of IRS records management policy and its application to all record schedule 
+amendments, new schedule developments, and retirement of old agency business schedules.  
+The vendor should also demonstrate agility in managing records including the ability to 
+meet set IRS Big Bucket schedule completion deadlines.   
+The new Big Bucket development project must also include the following:   
+•  Agency-wide (e.g., IRS sub-agency business units – BUs) assessments to identify 
+temporary and permanent records for all media including agency websites and 
+systems that need scheduling,  
+•  Schedule to schedule crosswalks, 
+•  Privacy-Controlled Unclassified Information (CUI) RCS/GRS citations as 
+applicable, 
+•  Develop and amendment, of records schedules,  
+•  Meeting with subject matter experts (SMEs), management, Office of Chief Counsel, 
+records specialists, and other agency stakeholders for review discussions and 
+schedule approvals, changes, and retirements. 
+•  Provision of support to the IRS Records Officer as needed for the IRS Big Bucket 
+Schedule Project including: 
+  Submitting draft schedules to NARA through the agency Records Officer,   Reviewing public comments for NARA approval. Working additional public comments to final NARA approvals,  
+
+
+  NOTE: Final new/amended schedules are submitted to the appointed 
+IRS NARA Archivist for review and approval, The IRS NARA 
+Archivist post all new/amended schedules to the “Federal Register” 
+for a total of 45 days for public comment. Next, comments submitted 
+(if any) are reviewed for legal validity.  If valid and approved by 
+NARA and IRS all valid comments are added in the records schedule 
+at hand.  The final schedule is then submitted to the NARA United 
+States Archivist for signature of approval and release of the approved 
+schedule to the NARA agency schedule public register; IRS then 
+implements them into the agency records schedules for official 
+agency records management usage. 
+  Updating master BU file plans (working with and through agency BU records specialist), 
+  Developing/updating records schedules. Including garnering NARA approval and developing applicable guidance, and 
+  Uploading final changes (approval, denials, and retired schedules) to the Big Bucket project tracker and to the new planned IRS Big Bucket Schedule 
+System (See item #6 below). 
+•  In addition, the vendor should provide examples of similar successful completed 
+projects that demonstrate similar scope and vendor expertise along with satisfactory 
+outcomes and/or references (preferably from federal agency clients). 
+6.  Demonstrate the ability to develop and implement an agency web-based electronic system to 
+house the new IRS Big Bucket records schedules and includes user friendly features that 
+include the following functionalities: adding, deleting, and locking schedule capabilities, 
+and streamlined navigation and searchability.  Vendor should also identify best technology 
+solutions for the system and include general NIST and IT website criteria, 508 compliance 
+methods, and recommendation for creation of an independent IRS public interfacing website 
+(via IRS management and oversight). 
+7.  Vendor should have experience in identifying unstructured data and creating training by: 
+i.  Conducting organizational assessments via interviews and data 
+analysis to identify sources, locations, and content of unstructured 
+data IRS-wide.  
+ii.  Providing policy revision recommendation report that identifies 
+policy or procedural gaps (if any).  
+iii.  Developing virtual and live training IRS-wide to ensure all 
+employees understand their roles and responsibilities for 
+management of unstructured data. Including identification and 
+placement of unstructured data files in the appropriate electronic 
+record keeping system. 
+8.  Provide vendor response on the ability to support digitization program 
+management (DPM) efforts by demonstrating the following task: 
+
+
+i. DPM Support for IRS Systems in All Stages 
+•  Identifying and linking systems with electronic records via the 
+related IRS Digitization Validation Form, IRS electronic 
+Records Management System Compliance Assessment Form, 
+IRS OneSDLC, FISMA, and PCLIA reviews and assessments,  
+  Collaborating with the ED&CMO on agency scanning projects, 
+•  Monitoring and providing RM and eRM policies for IRS 
+systems in development/testing/and implementation, 
+•  Identifying new systems that need DPM guidance, and 
+•  Collaborating with system owners to retire agency systems 
+records by providing appropriate NARA and IRS RM policy. 
+ii.  eRM System Reviews 
+•  Collaborating with BU system owners to conduct IRS eRM 
+System Compliance Assessments, 
+•  Analyzing collected data and review/rate system identified risk, 
+•  Developing IRS eRM System Findings Report for NARA eRM 
+universal and general IRS eRM compliance, including systems 
+correction/enhancement items, 
+•  Continuing collaboration with system owners to effect full 
+compliance, and 
+•  Tracking and reporting weekly and monthly findings/status of 
+all review cases.   
+iii.  DPM Correspondence and Data Calls 
+•  Coordinating and assisting with the completion of special 
+projects, research, project related, 
+documentation/communication, policy, guidance, and standard 
+operating procedures development, and analysis,  
+•  Participating and representing IRS at working group meetings, 
+events, and per ad hoc requests. 
+
+
+Questions in response to this Request for Information may be submitted electronically on or 
+before January 4, 2023 at 5:00 PM Eastern Time (ET). The Government reserves the right to 
+respond to some, all or none of the questions submitted. Vendors that meet the requirements 
+described in this announcement are invited to submit their capability statements/RFI responses.  
+Questions should be submitted to: Tanya.E.Outland@irs.gov  
+The deadline for responses to this RFI is 5:00PM EDT, January 18, 2023.   
+Responses should be submitted in GSA eBuy.  
+Responses shall not exceed 10 pages and shall not contain any brochures, advertising or any other 
+type of extraneous, graphic literature or documents that have not been requested and are not 
+relevant or essential in demonstrating the company’s ability to provide the required services.  
+Vendors may provide links to relevant websites, as appropriate. Vendors shall reference “IRS 
+Records Management Modernization and e-Records Digitization Support” in the subject line of 
+their response as well as in the subject line of any other e-mail correspondence referencing this 
+notice. 
+** THE GOVERNMENT WILL NOT RESPOND TO PHONE CALLS. ** 
+Thank you for your interest.   
+Contracting Office Address:  
+Internal Revenue Service   
+5000 Ellin Road   
+Lanham, MD 20706  
+Primary Point of Contact:   
+Tanya E. Outland  
+Email address: Tanya.E.Outland@irs.gov  
